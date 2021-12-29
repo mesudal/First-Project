@@ -56,16 +56,43 @@
 		</div>
 	</nav>
 	
+	<div class="container">
+		
+	</div>
+	
 	<!-- Main Page HomeImage -->
 	<div class="container">
-		<div id="myCarousel" class="carousel" data-ride"carousel">
+		<div id="myCarousel" class="carousel" data-ride="carousel">
 			<ol class="carousel-indicators">
 				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="2" class="active"></li>
 			</ol>
+			<div class="carousel-inner">
+				<div class="item active">
+					<img src="images/Main.jpg" width="100%">
+				</div>
+				<div class="item">
+					<img src="images/Main2.jpg" width="100%">
+				</div>
+				<div class="item">
+					<img src="images/Main3.jpg" width="100%">
+				</div>
+				<a class="left carousel-control" href="#myCarousel" data-slide="prev"> <!-- left Page Button -->
+					<span class="glyphicon glyphicon-chevron-left"></span>
+				</a>
+				<a class="right carousel-control" href="#myCarousel" data-slide="next"> <!-- right Page Button -->
+					<span class="glyphicon glyphicon-chevron-right"></span>
+				</a>
+			</div>
 		</div>
 	</div>
+	
+	<footer class="footer">
+		<p><b>Meyeong Jin Inc.</b> 충청남도 공주시 웅진동</p>
+		<p>대 표 : 김 옥 진&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사업자 등록번호 : 187-61-18761</p>
+		<p>Copyright (c) 2021 <b>Nature & Environment.</b> All rights reserved.</p>
+	</footer>
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script src="js/bootstrap.js"></script>
 </body>
