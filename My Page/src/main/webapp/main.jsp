@@ -92,6 +92,7 @@
 		<p><b>Meyeong Jin Inc.</b> 충청남도 공주시 웅진동</p>
 		<p>대 표 : 김 옥 진&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사업자 등록번호 : 187-61-18761</p>
 		<p>Copyright (c) 2021 <b>Nature & Environment.</b> All rights reserved.</p>
+		여기서 수정사항이 반영될 것인가..
 	</footer>
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script src="js/bootstrap.js"></script>
