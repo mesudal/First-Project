@@ -48,7 +48,7 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown" data-toggle="dropdown" role="button" aria-hashpopup="true" aria-expanded="false">고객지원<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li><a href="#">고객센터</a>
+						<li><a href="help.jsp">고객센터</a>
 						<li><a href="#">문의사항</a>
 					</ul>
 				</li>
